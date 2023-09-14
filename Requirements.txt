@@ -3,7 +3,7 @@ Numpy
 Seaborn
 Matplotlib
 Plotly
-Time
+datetime
 LogisticRegression
 MultinomialNB
 train_test_split
