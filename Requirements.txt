@@ -4,8 +4,7 @@ Seaborn
 Matplotlib
 Plotly
 datetime
-scikit-learn
-MultinomialNB
+scikit-learn==0.24.2
 train_test_split
 classification_report
 confusion_matrix
