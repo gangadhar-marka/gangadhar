@@ -14,8 +14,8 @@ SnowballStemmer
 CountVectorizer
 make_pipeline
 Image
-Word cloud
-Beautiful Soup
+Wordcloud
+beautifulsoup
 selenium
 NetworkX
 Warnings
