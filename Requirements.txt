@@ -4,7 +4,7 @@ Seaborn
 Matplotlib
 Plotly
 datetime
-LogisticRegression
+scikit-learn
 MultinomialNB
 train_test_split
 classification_report
